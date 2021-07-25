@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Workspace
+   version = "1.0">
+   <FileRef
+      location = "group:BinaryGap.playground">
+   </FileRef>
+   <FileRef
+      location = "group:CyclicRotation.playground">
+   </FileRef>
+   <FileRef
+      location = "group:OddOccurenciesInArray.playground">
+   </FileRef>
+   <FileRef
+      location = "group:FrogJmp.playground">
+   </FileRef>
+   <FileRef
+      location = "group:PermMissingElem.playground">
+   </FileRef>
+   <FileRef
+      location = "group:TapeEquilibrium.playground">
+   </FileRef>
+   <FileRef
+      location = "group:FrogRiverOne.playground">
+   </FileRef>
+   <FileRef
+      location = "group:MaxCounters.playground">
+   </FileRef>
+   <FileRef
+      location = "group:MissingInteger.playground">
+   </FileRef>
+   <FileRef
+      location = "group:PermCheck.playground">
+   </FileRef>
+   <FileRef
+      location = "group:CountDiv.playground">
+   </FileRef>
+   <FileRef
+      location = "group:GenomicRangeQuery.playground">
+   </FileRef>
+   <FileRef
+      location = "group:MinAvgTwoSlice.playground">
+   </FileRef>
+   <FileRef
+      location = "group:PassingCars.playground">
+   </FileRef>
+   <FileRef
+      location = "group:Distinct.playground">
+   </FileRef>
+</Workspace>
