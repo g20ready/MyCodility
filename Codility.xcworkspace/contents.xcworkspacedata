@@ -46,4 +46,7 @@
    <FileRef
       location = "group:Distinct.playground">
    </FileRef>
+   <FileRef
+      location = "group:MaxProductOfThree.playground">
+   </FileRef>
 </Workspace>
