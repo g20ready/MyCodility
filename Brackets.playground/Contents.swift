@@ -26,7 +26,6 @@ struct Stack<T> {
     var isEmpty: Bool {
         return internalArray.isEmpty
     }
-    
 }
 
 public func solution(_ S : inout String) -> Int {

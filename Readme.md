@@ -24,3 +24,6 @@
 	* [MaxProductOfThree](MaxProductOfThree.playground/Contents.swift)
 	* [NumberOfDiscIntersections](NumberOfDiscIntersections.playground/Contents.swift)
 	* [Triangle](Triangle.playground/Contents.swift)
+* Stacks and Queues
+	* [Brackets](Brackets.playground/Contents.swift)
+	* [Fish (62%)](Fish.playground/Contents.swift)

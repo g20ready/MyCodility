@@ -58,4 +58,7 @@
    <FileRef
       location = "group:Brackets.playground">
    </FileRef>
+   <FileRef
+      location = "group:Fish.playground">
+   </FileRef>
 </Workspace>
