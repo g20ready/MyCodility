@@ -8,7 +8,7 @@
       location = "group:CyclicRotation.playground">
    </FileRef>
    <FileRef
-      location = "group:OddOccurenciesInArray.playground">
+      location = "group:/Users/tzatzom/xCodeProjects/Playgrounds/OddOccurencesInArray.playground">
    </FileRef>
    <FileRef
       location = "group:FrogJmp.playground">
@@ -51,5 +51,8 @@
    </FileRef>
    <FileRef
       location = "group:NumberOfDiscIntersections.playground">
+   </FileRef>
+   <FileRef
+      location = "group:Triangle.playground">
    </FileRef>
 </Workspace>
