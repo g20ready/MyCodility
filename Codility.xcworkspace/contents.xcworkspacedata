@@ -49,4 +49,7 @@
    <FileRef
       location = "group:MaxProductOfThree.playground">
    </FileRef>
+   <FileRef
+      location = "group:NumberOfDiscIntersections.playground">
+   </FileRef>
 </Workspace>
