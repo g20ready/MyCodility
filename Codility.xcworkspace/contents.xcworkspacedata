@@ -64,4 +64,7 @@
    <FileRef
       location = "group:StoneWall.playground">
    </FileRef>
+   <FileRef
+      location = "group:Dominator.playground">
+   </FileRef>
 </Workspace>
