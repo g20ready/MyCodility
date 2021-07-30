@@ -28,3 +28,5 @@
 	* [Brackets](Brackets.playground/Contents.swift)
 	* [Fish (62%)](Fish.playground/Contents.swift)
     * [StoneWall](StoneWall.playground/Contents.swift)
+* Leader
+	* [Dominator](Dominator.playground/Contents.swift)
