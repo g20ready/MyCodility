@@ -61,4 +61,7 @@
    <FileRef
       location = "group:Fish.playground">
    </FileRef>
+   <FileRef
+      location = "group:StoneWall.playground">
+   </FileRef>
 </Workspace>
